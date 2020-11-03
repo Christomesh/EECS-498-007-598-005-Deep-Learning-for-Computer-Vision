@@ -2,7 +2,7 @@
 ## Completed Assignments for EECS 498-007 / 598-005: Deep Learning for Vision Fall 2019.
 This course was offered by the University of Michigan to talk really deep about computer vision especially in deep learning.
 
-Find course notes and assignments [here]() and be sure to check out video lectrues for [Fall 2019!](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+Find course notes and assignments [here](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/schedule.html) and be sure to check out video lectrues for [Fall 2019!](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 All the assignments before are done with Pytorch.
 
