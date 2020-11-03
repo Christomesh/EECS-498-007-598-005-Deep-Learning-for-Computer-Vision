@@ -1,12 +1,9 @@
 
-# EECS498 Deep Learning for Vision
-# Completed Assignments for EECS498/598: Deep Learning for Vision Fall 2019.
+## Completed Assignments for EECS 498-007 / 598-005: Deep Learning for Vision Fall 2019.
 
-This course was offered by the University of Michigan to talk really deep about computer vision especially in deep learning. The assignments cover contents including but not limited to CNN architectures, object detection, image captioning, GAN, etc. Students will benefit a lot from this course.
+This course was offered by the University of Michigan to talk really deep about computer vision especially in deep learning.
 
 Find course notes and assignments here and be sure to check out video lectrues for Fall 2019!
-
-If you do not have access to the video, you can also go through CS231n at Stanford, which has huge overlaps with this course
 
 All the assignments before are done with Pytorch.
 
