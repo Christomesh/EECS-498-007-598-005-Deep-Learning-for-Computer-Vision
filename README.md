@@ -3,7 +3,7 @@
 
 This course was offered by the University of Michigan to talk really deep about computer vision especially in deep learning.
 
-Find course notes and assignments here and be sure to check out video lectrues for Fall 2019!
+Find course notes and assignments here and be sure to check out video lectrues for [Fall 2019!](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 All the assignments before are done with Pytorch.
 
