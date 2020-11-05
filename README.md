@@ -10,7 +10,7 @@ All the assignments before are done with Pytorch.
 ### Assignment 1:
 [Q1](https://github.com/Christomesh/EECS-498-007-598-005-Deep-Learning-for-Computer-Vision/blob/master/A1/Copy_of_pytorch101.ipynb): PyTorch 101. Walk you through the basics of working with tensors in PyTorch.
 
-Q2(https://github.com/Christomesh/EECS-498-007-598-005-Deep-Learning-for-Computer-Vision/blob/master/A1/Copy_of_kNN.ipynb): k-Nearest Neighbor classifier. Walk you through implementing a kNN classifier.
+[Q2](https://github.com/Christomesh/EECS-498-007-598-005-Deep-Learning-for-Computer-Vision/blob/master/A1/Copy_of_kNN.ipynb): k-Nearest Neighbor classifier. Walk you through implementing a kNN classifier.
 ### Assignment 2:
 Q1: Linear Classifiers. Walk you through implmenting SVM and Softmax classifier.
 
